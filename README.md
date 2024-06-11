@@ -1,50 +1,6 @@
 # System-Maintenance
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>System Maintenance Script</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        h2 {
-            color: #333;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 3px;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 3px;
-            overflow: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>System Maintenance Script</h1>
+
+<h1>System Maintenance Script</h1>
         <p>
             This repository contains a bash script designed to perform various system maintenance tasks on a Linux machine. The script automates routine maintenance activities to keep your system running smoothly and efficiently.
         </p>
@@ -101,5 +57,3 @@ cd system-maintenance-script</code></pre>
         <p><strong>Happy Coding!</strong></p>
         <p><strong>Your Name</strong></p>
     </div>
-</body>
-</html>
